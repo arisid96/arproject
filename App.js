@@ -1,1 +1,1 @@
-() => alert('Hello Permirsah!')
+() => alert('Hello World')
